@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>spark</groupId>
-  <artifactId>Scalatest</artifactId>
+  <artifactId>Newspark</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
     <plugins>
